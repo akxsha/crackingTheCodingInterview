@@ -10,6 +10,8 @@
 ---
 * Notes:
   * create the "window" with p1 and p2
+  
+{% raw %}
 ```
 int p1 = 0;
 int p2 = n; // with n as the length of window
@@ -22,6 +24,8 @@ p1____p2
        p1____p2
 */
 ```
+{% endraw %}
+
 
 ---
 ## Two Pointers Pattern
