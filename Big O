@@ -1,0 +1,10 @@
+ideas:
+- 
+loops: 
+  for 
+  for each
+  while
+  etc
+  
+you can take a nested loop and apply the silding window pattern to decrease the big O complexity of the problem
+ex:  you can take a ``` for(condition) for(condition)``` and do a ```  while (true) do something if(condition)```
