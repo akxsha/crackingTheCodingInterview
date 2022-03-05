@@ -7,9 +7,9 @@
 * Resources:
   * Videos:
       * <https://www.youtube.com/watch?v=qqXOZD4zKEg&ab_channel=CodetheThings>
-
+---
 * Notes:
- * create the "window" with p1 and p2
+  * create the "window" with p1 and p2
 ```
 int p1 = 0;
 int p2 = n; // with n as the length of window
@@ -23,4 +23,6 @@ p1____p2
 */
 ```
 
+---
+## Two Pointers Pattern
 
