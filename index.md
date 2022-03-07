@@ -1,4 +1,4 @@
-# Cracking the Coding Inerview 
+# Cracking the Coding Interview 
 
 ## Sliding Window Pattern
 
@@ -10,7 +10,6 @@
 ---
 * Notes:
   * create the "window" with p1 and p2
-  
 {% raw %}
 ```
 int p1 = 0;
@@ -29,4 +28,32 @@ p1____p2
 
 ---
 ## Two Pointers Pattern
+
+---
+## Fast & Slow pointers
+
+---
+## Merge Intervals
+
+---
+## Cyclic Sort
+
+---
+## In-place Reversal of a LinkedList
+
+
+--- 
+## Tree Breadth First Search
+
+---
+## Tree Depth First Search
+
+---
+## Two Heaps
+
+---
+##
+
+
+
 
