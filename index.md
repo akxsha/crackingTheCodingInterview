@@ -1,6 +1,6 @@
 # Cracking the Coding Interview 
 
-## Sliding Window Pattern
+### Sliding Window Pattern
 
 * Good for **subset** and **subarray** problems
 * Easy way to take a O(n^2) into a O(n) complexity 
@@ -25,34 +25,35 @@ p1____p2
 ```
 {% endraw %}
 
+#### *Other Array Patterns*
+<[Link] https://www.rose-hulman.edu/class/cs/csse120/Resources/C/Arrays/arrayPatterns.pdf>
+---
+### Two Pointers Pattern
 
 ---
-## Two Pointers Pattern
+### Fast & Slow pointers
 
 ---
-## Fast & Slow pointers
+### Merge Intervals
 
 ---
-## Merge Intervals
+### Cyclic Sort
 
 ---
-## Cyclic Sort
-
----
-## In-place Reversal of a LinkedList
+### In-place Reversal of a LinkedList
 
 
 --- 
-## Tree Breadth First Search
+### Tree Breadth First Search
 
 ---
-## Tree Depth First Search
+### Tree Depth First Search
 
 ---
-## Two Heaps
+### Two Heaps
 
 ---
-##
+###
 
 
 
