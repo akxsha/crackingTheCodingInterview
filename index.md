@@ -26,7 +26,14 @@ p1____p2
 {% endraw %}
 
 #### *Other Array Patterns*
-<[Link] https://www.rose-hulman.edu/class/cs/csse120/Resources/C/Arrays/arrayPatterns.pdf>
+[Link] https://www.rose-hulman.edu/class/cs/csse120/Resources/C/Arrays/arrayPatterns.pdf
+
+1. Accessesing the kth element
+2. Printing Values (for loop)
+3. Printing Values backwards (for loop)
+4. Counting the number of elements in the array that meet a given condition. (for loop with nested if {condition} )
+5. Summing the elements in an array (for loop)
+6. 
 ---
 ### Two Pointers Pattern
 
